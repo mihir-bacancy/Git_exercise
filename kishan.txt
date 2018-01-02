@@ -2,5 +2,22 @@ That way, you would replay (the --rebase part) your local commits on top of the 
 
 
 See a more complete example in the chapter 6 Pull with rebase of the Git Pocket Book.
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+eofhsdouhskhekvheiuvheuvhuvhrwuhwushohfurhv
+efljwgefhgweifhwe
+eejfkhewbfkjef
+jqZaSIadowjefoefkjheqjc
+=======
+=======
 "merge this file"
 
+wdqdjhqdqwhdljqwd
+qdljqnclcnle
+qkxkjxkk
+dxkk;qdxm;localdxjqdxn
+fgdchgwehjgfchw
+ekcdwbckhbck
+dckhsdbvkh
+dckbkjdncn
