@@ -1,6 +1,11 @@
 That way, you would replay (the --rebase part) your local commits on top of the newly updated origin/master (or origin/yourBranch: git pull origin yourBranch).
 
+
 See a more complete example in the chapter 6 Pull with rebase of the Git Pocket Book.
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 2aac44d4978094c28e5c28cc098f7ff5fb1897a4
 
 eofhsdouhskhekvheiuvheuvhuvhrwuhwushohfurhv
 efljwgefhgweifhwe
@@ -8,6 +13,32 @@ eejfkhewbfkjef
 jqZaSIadowjefoefkjheqjc
 
 
+<<<<<<< HEAD
+vaishali
+heloooooo
+hellookaosdjas
+
+dhhgawjda
+fas
+fs
+wf
+as
+f
+asf
+as
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+eofhsdouhskhekvheiuvheuvhuvhrwuhwushohfurhv
+efljwgefhgweifhwe
+eejfkhewbfkjef
+jqZaSIadowjefoefkjheqjc
+=======
+=======
+"merge this file"
+=======
+>>>>>>> 2aac44d4978094c28e5c28cc098f7ff5fb1897a4
 
 wdqdjhqdqwhdljqwd
 qdljqnclcnle
@@ -17,5 +48,56 @@ fgdchgwehjgfchw
 ekcdwbckhbck
 dckhsdbvkh
 dckbkjdncn
+<<<<<<< HEAD
+>>>>>>> d1e60b6ce121779b9a1b2d9c21b468f7b63c6b33
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vaishali
+=======
+
+
+>>>>>>> 2aac44d4978094c28e5c28cc098f7ff5fb1897a4
+
+
+
+
+
+wfjqehrihe
+
+
+swati
+
+swati
+
+swati
+
+swati
+
+swati
+
+swati
+
+swati
+
+swati
+
+swati
+
+swati
