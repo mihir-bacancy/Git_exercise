@@ -1,21 +1,6 @@
 That way, you would replay (the --rebase part) your local commits on top of the newly updated origin/master (or origin/yourBranch: git pull origin yourBranch).
 
-See a more complete example in the chapter 6 Pull with rebase ndhfnjsnbxufbof the Git Pocket Book.
-kishan
-dsfgbverr
-verv
-resvrf
-vrvfrb
-gnh
-tnye
-nsd
-gnfrh
-yetk
-uthrd
-md
-fnhyet
-jtmthe
-d
-n
-rfhnjhtu
-mth
+
+See a more complete example in the chapter 6 Pull with rebase of the Git Pocket Book.
+"merge this file"
+
