@@ -1,22 +1,86 @@
-That way, you would replay (the --rebase part) your local commits on top of the newly updated origin/master (or origin/yourBranch: git pull origin yourBranch).
 
-See a more complete example in the chapter 6 Pull with rebase of the Git Pocket Book.
+module Demo1
+  def product
+    puts "product"
+  end
+  def hello
+    puts hello
+  end
+end
+module Demo2
+  def hello
+    puts "hello"
+  end
 
-eofhsdouhskhekvheiuvheuvhuvhrwuhwushohfurhv
-efljwgefhgweifhwe
-eejfkhewbfkjef
-jqZaSIadowjefoefkjheqjc
+  class Classdemo2
+    def methodclassdemo2
+      puts "method class demo2"
+    end
+  end
+end
+
+class Access
+  extend Demo1
+  class abc > cl
+  #Classdemo2::methodclassdemo2
+  #Classdemo2.new.methodclassdemo2
+end
+Access.new.product
 
 
 
-wdqdjhqdqwhdljqwd
-qdljqnclcnle
-qkxkjxkk
-dxkk;qdxm;localdxjqdxn
-fgdchgwehjgfchw
-ekcdwbckhbck
-dckhsdbvkh
-dckbkjdncn
 
-lkkddwudgjhdjd
-wdhwdjdkwjd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=begin
+class Abc
+    def display1
+      puts "class abc method display"
+    end
+  end
+  class Xyz <  Abc
+    def display1
+      puts "class xyz method display"
+    end
+  end
+=end
+
+
+
+
+
+
+
+
+
+
+
+#extend Demo1
+#include Demo1
+#  Demo1::hello
+>>>>>>> 8c77643945de50adf955b3ca836f7940b0390cb0
