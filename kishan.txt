@@ -2,3 +2,4 @@ That way, you would replay (the --rebase part) your local commits on top of the 
 
 See a more complete example in the chapter 6 Pull with rebase ndhfnjsnbxufbof the Git Pocket Book.
 kishan
+dobariya
