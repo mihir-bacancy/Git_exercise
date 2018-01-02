@@ -1,6 +1,8 @@
 That way, you would replay (the --rebase part) your local commits on top of the newly updated origin/master (or origin/yourBranch: git pull origin yourBranch).
 
+
 See a more complete example in the chapter 6 Pull with rebase of the Git Pocket Book.
+<<<<<<< HEAD
 
 
 
@@ -16,3 +18,44 @@ as
 f
 asf
 as
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+eofhsdouhskhekvheiuvheuvhuvhrwuhwushohfurhv
+efljwgefhgweifhwe
+eejfkhewbfkjef
+jqZaSIadowjefoefkjheqjc
+=======
+=======
+"merge this file"
+
+wdqdjhqdqwhdljqwd
+qdljqnclcnle
+qkxkjxkk
+dxkk;qdxm;localdxjqdxn
+fgdchgwehjgfchw
+ekcdwbckhbck
+dckhsdbvkh
+dckbkjdncn
+>>>>>>> d1e60b6ce121779b9a1b2d9c21b468f7b63c6b33
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vaishali
